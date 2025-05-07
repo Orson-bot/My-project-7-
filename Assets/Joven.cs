@@ -21,6 +21,6 @@ public class Home : MonoBehaviour
 
     public void Inventory()
     {
-        SceneManager.LoadScene("Investory");
+        SceneManager.LoadScene("Invetstory");
     }
 }
